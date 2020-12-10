@@ -1,0 +1,341 @@
+"Town","FIPS","Year","Measure Type","Variable","Value"
+"Connecticut","09",2000,"Square Miles","Land Area",4844.78
+"Connecticut","09",2010,"Square Miles","Land Area",4842.33
+"Bethel","0900104720",2000,"Square Miles","Land Area",16.79
+"Bethel","0900104720",2010,"Square Miles","Land Area",16.89
+"Bridgeport","0900108070",2000,"Square Miles","Land Area",16
+"Bridgeport","0900108070",2010,"Square Miles","Land Area",15.97
+"Brookfield","0900108980",2000,"Square Miles","Land Area",19.8
+"Brookfield","0900108980",2010,"Square Miles","Land Area",19.77
+"Danbury","0900118500",2000,"Square Miles","Land Area",42.11
+"Danbury","0900118500",2010,"Square Miles","Land Area",41.89
+"Darien","0900118850",2000,"Square Miles","Land Area",12.86
+"Darien","0900118850",2010,"Square Miles","Land Area",12.66
+"Easton","0900123890",2000,"Square Miles","Land Area",27.42
+"Easton","0900123890",2010,"Square Miles","Land Area",27.42
+"Fairfield","0900126620",2000,"Square Miles","Land Area",30.03
+"Fairfield","0900126620",2010,"Square Miles","Land Area",29.9
+"Greenwich","0900133620",2000,"Square Miles","Land Area",47.83
+"Greenwich","0900133620",2010,"Square Miles","Land Area",47.62
+"Monroe","0900148620",2000,"Square Miles","Land Area",26.13
+"Monroe","0900148620",2010,"Square Miles","Land Area",26.07
+"New Canaan","0900150580",2000,"Square Miles","Land Area",22.13
+"New Canaan","0900150580",2010,"Square Miles","Land Area",22.19
+"New Fairfield","0900150860",2000,"Square Miles","Land Area",20.46
+"New Fairfield","0900150860",2010,"Square Miles","Land Area",20.44
+"Newtown","0900152980",2000,"Square Miles","Land Area",57.76
+"Newtown","0900152980",2010,"Square Miles","Land Area",57.66
+"Norwalk","0900156060",2000,"Square Miles","Land Area",22.81
+"Norwalk","0900156060",2010,"Square Miles","Land Area",22.86
+"Redding","0900163480",2000,"Square Miles","Land Area",31.5
+"Redding","0900163480",2010,"Square Miles","Land Area",31.5
+"Ridgefield","0900163970",2000,"Square Miles","Land Area",34.43
+"Ridgefield","0900163970",2010,"Square Miles","Land Area",34.52
+"Shelton","0900168170",2000,"Square Miles","Land Area",30.57
+"Shelton","0900168170",2010,"Square Miles","Land Area",30.63
+"Sherman","0900168310",2000,"Square Miles","Land Area",21.8
+"Sherman","0900168310",2010,"Square Miles","Land Area",21.89
+"Stamford","0900173070",2000,"Square Miles","Land Area",37.74
+"Stamford","0900173070",2010,"Square Miles","Land Area",37.64
+"Stratford","0900174190",2000,"Square Miles","Land Area",17.59
+"Stratford","0900174190",2010,"Square Miles","Land Area",17.48
+"Trumbull","0900177200",2000,"Square Miles","Land Area",23.29
+"Trumbull","0900177200",2010,"Square Miles","Land Area",23.32
+"Weston","0900183430",2000,"Square Miles","Land Area",19.8
+"Weston","0900183430",2010,"Square Miles","Land Area",19.8
+"Westport","0900183500",2000,"Square Miles","Land Area",20.01
+"Westport","0900183500",2010,"Square Miles","Land Area",19.96
+"Wilton","0900186370",2000,"Square Miles","Land Area",26.95
+"Wilton","0900186370",2010,"Square Miles","Land Area",26.8
+"Avon","0900302060",2000,"Square Miles","Land Area",23.12
+"Avon","0900302060",2010,"Square Miles","Land Area",23.15
+"Berlin","0900304300",2000,"Square Miles","Land Area",26.45
+"Berlin","0900304300",2010,"Square Miles","Land Area",26.32
+"Bloomfield","0900305910",2000,"Square Miles","Land Area",26.01
+"Bloomfield","0900305910",2010,"Square Miles","Land Area",26.09
+"Bristol","0900308490",2000,"Square Miles","Land Area",26.51
+"Bristol","0900308490",2010,"Square Miles","Land Area",26.41
+"Burlington","0900310100",2000,"Square Miles","Land Area",29.8
+"Burlington","0900310100",2010,"Square Miles","Land Area",29.74
+"Canton","0900312270",2000,"Square Miles","Land Area",24.57
+"Canton","0900312270",2010,"Square Miles","Land Area",24.59
+"East Granby","0900322070",2000,"Square Miles","Land Area",17.48
+"East Granby","0900322070",2010,"Square Miles","Land Area",17.56
+"East Hartford","0900322630",2000,"Square Miles","Land Area",18.02
+"East Hartford","0900322630",2010,"Square Miles","Land Area",18
+"East Windsor","0900324800",2000,"Square Miles","Land Area",26.29
+"East Windsor","0900324800",2010,"Square Miles","Land Area",26.25
+"Enfield","0900325990",2000,"Square Miles","Land Area",33.38
+"Enfield","0900325990",2010,"Square Miles","Land Area",33.27
+"Farmington","0900327600",2000,"Square Miles","Land Area",28.06
+"Farmington","0900327600",2010,"Square Miles","Land Area",28.02
+"Glastonbury","0900331240",2000,"Square Miles","Land Area",51.37
+"Glastonbury","0900331240",2010,"Square Miles","Land Area",51.27
+"Granby","0900332640",2000,"Square Miles","Land Area",40.69
+"Granby","0900332640",2010,"Square Miles","Land Area",40.68
+"Hartford","0900337070",2000,"Square Miles","Land Area",17.31
+"Hartford","0900337070",2010,"Square Miles","Land Area",17.38
+"Hartland","0900337140",2000,"Square Miles","Land Area",33.03
+"Hartland","0900337140",2010,"Square Miles","Land Area",33.08
+"Manchester","0900344700",2000,"Square Miles","Land Area",27.26
+"Manchester","0900344700",2010,"Square Miles","Land Area",27.4
+"Marlborough","0900345820",2000,"Square Miles","Land Area",23.28
+"Marlborough","0900345820",2010,"Square Miles","Land Area",23.35
+"New Britain","0900350440",2000,"Square Miles","Land Area",13.34
+"New Britain","0900350440",2010,"Square Miles","Land Area",13.39
+"Newington","0900352140",2000,"Square Miles","Land Area",13.18
+"Newington","0900352140",2010,"Square Miles","Land Area",13.14
+"Plainville","0900360120",2000,"Square Miles","Land Area",9.76
+"Plainville","0900360120",2010,"Square Miles","Land Area",9.71
+"Rocky Hill","0900365370",2000,"Square Miles","Land Area",13.45
+"Rocky Hill","0900365370",2010,"Square Miles","Land Area",13.45
+"Simsbury","0900368940",2000,"Square Miles","Land Area",33.88
+"Simsbury","0900368940",2010,"Square Miles","Land Area",33.92
+"Southington","0900370550",2000,"Square Miles","Land Area",35.99
+"Southington","0900370550",2010,"Square Miles","Land Area",35.91
+"South Windsor","0900371390",2000,"Square Miles","Land Area",27.96
+"South Windsor","0900371390",2010,"Square Miles","Land Area",28.06
+"Suffield","0900374540",2000,"Square Miles","Land Area",42.21
+"Suffield","0900374540",2010,"Square Miles","Land Area",42.26
+"West Hartford","0900382590",2000,"Square Miles","Land Area",21.98
+"West Hartford","0900382590",2010,"Square Miles","Land Area",21.84
+"Wethersfield","0900384900",2000,"Square Miles","Land Area",12.39
+"Wethersfield","0900384900",2010,"Square Miles","Land Area",12.31
+"Windsor","0900387000",2000,"Square Miles","Land Area",29.63
+"Windsor","0900387000",2010,"Square Miles","Land Area",29.5
+"Windsor Locks","0900387070",2000,"Square Miles","Land Area",9.03
+"Windsor Locks","0900387070",2010,"Square Miles","Land Area",9.02
+"Barkhamsted","0900502760",2000,"Square Miles","Land Area",36.22
+"Barkhamsted","0900502760",2010,"Square Miles","Land Area",36.25
+"Bethlehem","0900504930",2000,"Square Miles","Land Area",19.36
+"Bethlehem","0900504930",2010,"Square Miles","Land Area",19.37
+"Bridgewater","0900508210",2000,"Square Miles","Land Area",16.23
+"Bridgewater","0900508210",2010,"Square Miles","Land Area",16.4
+"Canaan","0900510940",2000,"Square Miles","Land Area",32.95
+"Canaan","0900510940",2010,"Square Miles","Land Area",32.91
+"Colebrook","0900516050",2000,"Square Miles","Land Area",31.47
+"Colebrook","0900516050",2010,"Square Miles","Land Area",31.53
+"Cornwall","0900517240",2000,"Square Miles","Land Area",46.01
+"Cornwall","0900517240",2010,"Square Miles","Land Area",46.06
+"Goshen","0900532290",2000,"Square Miles","Land Area",43.66
+"Goshen","0900532290",2010,"Square Miles","Land Area",43.63
+"Harwinton","0900537280",2000,"Square Miles","Land Area",30.75
+"Harwinton","0900537280",2010,"Square Miles","Land Area",30.79
+"Kent","0900540290",2000,"Square Miles","Land Area",48.47
+"Kent","0900540290",2010,"Square Miles","Land Area",48.55
+"Litchfield","0900543370",2000,"Square Miles","Land Area",56.06
+"Litchfield","0900543370",2010,"Square Miles","Land Area",56.1
+"Morris","0900549460",2000,"Square Miles","Land Area",17.19
+"Morris","0900549460",2010,"Square Miles","Land Area",17.35
+"New Hartford","0900551350",2000,"Square Miles","Land Area",37.03
+"New Hartford","0900551350",2010,"Square Miles","Land Area",37.04
+"New Milford","0900552630",2000,"Square Miles","Land Area",61.59
+"New Milford","0900552630",2010,"Square Miles","Land Area",61.57
+"Norfolk","0900553470",2000,"Square Miles","Land Area",45.31
+"Norfolk","0900553470",2010,"Square Miles","Land Area",45.32
+"North Canaan","0900554030",2000,"Square Miles","Land Area",19.45
+"North Canaan","0900554030",2010,"Square Miles","Land Area",19.47
+"Plymouth","0900560750",2000,"Square Miles","Land Area",21.72
+"Plymouth","0900560750",2010,"Square Miles","Land Area",21.89
+"Roxbury","0900565930",2000,"Square Miles","Land Area",26.23
+"Roxbury","0900565930",2010,"Square Miles","Land Area",26.3
+"Salisbury","0900566420",2000,"Square Miles","Land Area",57.32
+"Salisbury","0900566420",2010,"Square Miles","Land Area",57.24
+"Sharon","0900567960",2000,"Square Miles","Land Area",58.7
+"Sharon","0900567960",2010,"Square Miles","Land Area",58.76
+"Thomaston","0900575730",2000,"Square Miles","Land Area",12.01
+"Thomaston","0900575730",2010,"Square Miles","Land Area",11.97
+"Torrington","0900576570",2000,"Square Miles","Land Area",39.79
+"Torrington","0900576570",2010,"Square Miles","Land Area",39.75
+"Warren","0900579510",2000,"Square Miles","Land Area",26.31
+"Warren","0900579510",2010,"Square Miles","Land Area",26.31
+"Washington","0900579720",2000,"Square Miles","Land Area",38.19
+"Washington","0900579720",2010,"Square Miles","Land Area",38.07
+"Watertown","0900580490",2000,"Square Miles","Land Area",29.15
+"Watertown","0900580490",2010,"Square Miles","Land Area",29.01
+"Winchester","0900586440",2000,"Square Miles","Land Area",32.28
+"Winchester","0900586440",2010,"Square Miles","Land Area",32.51
+"Woodbury","0900587910",2000,"Square Miles","Land Area",36.47
+"Woodbury","0900587910",2010,"Square Miles","Land Area",36.4
+"Chester","0900714300",2000,"Square Miles","Land Area",16.03
+"Chester","0900714300",2010,"Square Miles","Land Area",16.05
+"Clinton","0900715350",2000,"Square Miles","Land Area",16.28
+"Clinton","0900715350",2010,"Square Miles","Land Area",16.21
+"Cromwell","0900718080",2000,"Square Miles","Land Area",12.39
+"Cromwell","0900718080",2010,"Square Miles","Land Area",12.45
+"Deep River","0900719130",2000,"Square Miles","Land Area",13.55
+"Deep River","0900719130",2010,"Square Miles","Land Area",13.51
+"Durham","0900720810",2000,"Square Miles","Land Area",23.6
+"Durham","0900720810",2010,"Square Miles","Land Area",23.66
+"East Haddam","0900722280",2000,"Square Miles","Land Area",54.32
+"East Haddam","0900722280",2010,"Square Miles","Land Area",54.25
+"East Hampton","0900722490",2000,"Square Miles","Land Area",35.59
+"East Hampton","0900722490",2010,"Square Miles","Land Area",35.65
+"Essex","0900726270",2000,"Square Miles","Land Area",10.36
+"Essex","0900726270",2010,"Square Miles","Land Area",10.4
+"Haddam","0900735230",2000,"Square Miles","Land Area",44.03
+"Haddam","0900735230",2010,"Square Miles","Land Area",43.94
+"Killingworth","0900740710",2000,"Square Miles","Land Area",35.33
+"Killingworth","0900740710",2010,"Square Miles","Land Area",35.33
+"Middlefield","0900747080",2000,"Square Miles","Land Area",12.7
+"Middlefield","0900747080",2010,"Square Miles","Land Area",12.65
+"Middletown","0900747360",2000,"Square Miles","Land Area",40.9
+"Middletown","0900747360",2010,"Square Miles","Land Area",41.02
+"Old Saybrook","0900757320",2000,"Square Miles","Land Area",15.04
+"Old Saybrook","0900757320",2010,"Square Miles","Land Area",15.04
+"Portland","0900761800",2000,"Square Miles","Land Area",23.4
+"Portland","0900761800",2010,"Square Miles","Land Area",23.35
+"Westbrook","0900781680",2000,"Square Miles","Land Area",15.72
+"Westbrook","0900781680",2010,"Square Miles","Land Area",15.78
+"Ansonia","0900901220",2000,"Square Miles","Land Area",6.03
+"Ansonia","0900901220",2010,"Square Miles","Land Area",6.02
+"Beacon Falls","0900903250",2000,"Square Miles","Land Area",9.78
+"Beacon Falls","0900903250",2010,"Square Miles","Land Area",9.67
+"Bethany","0900904580",2000,"Square Miles","Land Area",20.97
+"Bethany","0900904580",2010,"Square Miles","Land Area",21.13
+"Branford","0900907310",2000,"Square Miles","Land Area",21.98
+"Branford","0900907310",2010,"Square Miles","Land Area",21.83
+"Cheshire","0900914160",2000,"Square Miles","Land Area",32.91
+"Cheshire","0900914160",2010,"Square Miles","Land Area",33.07
+"Derby","0900919550",2000,"Square Miles","Land Area",4.98
+"Derby","0900919550",2010,"Square Miles","Land Area",5.06
+"East Haven","0900922910",2000,"Square Miles","Land Area",12.26
+"East Haven","0900922910",2010,"Square Miles","Land Area",12.3
+"Guilford","0900934950",2000,"Square Miles","Land Area",47.05
+"Guilford","0900934950",2010,"Square Miles","Land Area",47.12
+"Hamden","0900935650",2000,"Square Miles","Land Area",32.78
+"Hamden","0900935650",2010,"Square Miles","Land Area",32.65
+"Madison","0900944560",2000,"Square Miles","Land Area",36.2
+"Madison","0900944560",2010,"Square Miles","Land Area",36.15
+"Meriden","0900946520",2000,"Square Miles","Land Area",23.75
+"Meriden","0900946520",2010,"Square Miles","Land Area",23.79
+"Middlebury","0900946940",2000,"Square Miles","Land Area",17.75
+"Middlebury","0900946940",2010,"Square Miles","Land Area",17.75
+"Milford","0900947535",2000,"Square Miles","Land Area",22.56
+"Milford","0900947535",2010,"Square Miles","Land Area",22.18
+"Naugatuck","0900949950",2000,"Square Miles","Land Area",16.39
+"Naugatuck","0900949950",2010,"Square Miles","Land Area",16.31
+"New Haven","0900952070",2000,"Square Miles","Land Area",18.85
+"New Haven","0900952070",2010,"Square Miles","Land Area",18.68
+"North Branford","0900953890",2000,"Square Miles","Land Area",24.92
+"North Branford","0900953890",2010,"Square Miles","Land Area",24.76
+"North Haven","0900954870",2000,"Square Miles","Land Area",20.77
+"North Haven","0900954870",2010,"Square Miles","Land Area",20.84
+"Orange","0900957600",2000,"Square Miles","Land Area",17.19
+"Orange","0900957600",2010,"Square Miles","Land Area",17.18
+"Oxford","0900958300",2000,"Square Miles","Land Area",32.89
+"Oxford","0900958300",2010,"Square Miles","Land Area",32.74
+"Prospect","0900962290",2000,"Square Miles","Land Area",14.32
+"Prospect","0900962290",2010,"Square Miles","Land Area",14.23
+"Seymour","0900967610",2000,"Square Miles","Land Area",14.57
+"Seymour","0900967610",2010,"Square Miles","Land Area",14.52
+"Southbury","0900969640",2000,"Square Miles","Land Area",39.06
+"Southbury","0900969640",2010,"Square Miles","Land Area",38.99
+"Wallingford","0900978740",2000,"Square Miles","Land Area",39.02
+"Wallingford","0900978740",2010,"Square Miles","Land Area",39.04
+"Waterbury","0900980070",2000,"Square Miles","Land Area",28.57
+"Waterbury","0900980070",2010,"Square Miles","Land Area",28.52
+"West Haven","0900982870",2000,"Square Miles","Land Area",10.84
+"West Haven","0900982870",2010,"Square Miles","Land Area",10.75
+"Wolcott","0900987560",2000,"Square Miles","Land Area",20.43
+"Wolcott","0900987560",2010,"Square Miles","Land Area",20.43
+"Woodbridge","0900987700",2000,"Square Miles","Land Area",18.83
+"Woodbridge","0900987700",2010,"Square Miles","Land Area",18.81
+"Bozrah","0901106820",2000,"Square Miles","Land Area",19.97
+"Bozrah","0901106820",2010,"Square Miles","Land Area",19.96
+"Colchester","0901115910",2000,"Square Miles","Land Area",49.06
+"Colchester","0901115910",2010,"Square Miles","Land Area",48.98
+"East Lyme","0901123400",2000,"Square Miles","Land Area",34.03
+"East Lyme","0901123400",2010,"Square Miles","Land Area",34
+"Franklin","0901129910",2000,"Square Miles","Land Area",19.51
+"Franklin","0901129910",2010,"Square Miles","Land Area",19.49
+"Griswold","0901133900",2000,"Square Miles","Land Area",34.95
+"Griswold","0901133900",2010,"Square Miles","Land Area",34.71
+"Groton","0901134250",2000,"Square Miles","Land Area",31.29
+"Groton","0901134250",2010,"Square Miles","Land Area",31.03
+"Lebanon","0901142390",2000,"Square Miles","Land Area",54.11
+"Lebanon","0901142390",2010,"Square Miles","Land Area",54.1
+"Ledyard","0901142600",2000,"Square Miles","Land Area",38.14
+"Ledyard","0901142600",2010,"Square Miles","Land Area",38.22
+"Lisbon","0901143230",2000,"Square Miles","Land Area",16.26
+"Lisbon","0901143230",2010,"Square Miles","Land Area",16.29
+"Lyme","0901144210",2000,"Square Miles","Land Area",31.85
+"Lyme","0901144210",2010,"Square Miles","Land Area",31.84
+"Montville","0901148900",2000,"Square Miles","Land Area",42.02
+"Montville","0901148900",2010,"Square Miles","Land Area",41.95
+"New London","0901152350",2000,"Square Miles","Land Area",5.54
+"New London","0901152350",2010,"Square Miles","Land Area",5.62
+"North Stonington","0901155500",2000,"Square Miles","Land Area",54.31
+"North Stonington","0901155500",2010,"Square Miles","Land Area",54.25
+"Norwich","0901156270",2000,"Square Miles","Land Area",28.33
+"Norwich","0901156270",2010,"Square Miles","Land Area",28.06
+"Old Lyme","0901157040",2000,"Square Miles","Land Area",23.1
+"Old Lyme","0901157040",2010,"Square Miles","Land Area",23.02
+"Preston","0901162150",2000,"Square Miles","Land Area",30.9
+"Preston","0901162150",2010,"Square Miles","Land Area",30.82
+"Salem","0901166210",2000,"Square Miles","Land Area",28.95
+"Salem","0901166210",2010,"Square Miles","Land Area",28.92
+"Sprague","0901171670",2000,"Square Miles","Land Area",13.21
+"Sprague","0901171670",2010,"Square Miles","Land Area",13.25
+"Stonington","0901173770",2000,"Square Miles","Land Area",38.69
+"Stonington","0901173770",2010,"Square Miles","Land Area",38.66
+"Voluntown","0901178600",2000,"Square Miles","Land Area",38.92
+"Voluntown","0901178600",2010,"Square Miles","Land Area",38.96
+"Waterford","0901180280",2000,"Square Miles","Land Area",32.75
+"Waterford","0901180280",2010,"Square Miles","Land Area",32.77
+"Andover","0901301080",2000,"Square Miles","Land Area",15.46
+"Andover","0901301080",2010,"Square Miles","Land Area",15.45
+"Bolton","0901306260",2000,"Square Miles","Land Area",14.41
+"Bolton","0901306260",2010,"Square Miles","Land Area",14.41
+"Columbia","0901316400",2000,"Square Miles","Land Area",21.36
+"Columbia","0901316400",2010,"Square Miles","Land Area",21.37
+"Coventry","0901317800",2000,"Square Miles","Land Area",37.72
+"Coventry","0901317800",2010,"Square Miles","Land Area",37.57
+"Ellington","0901325360",2000,"Square Miles","Land Area",34.05
+"Ellington","0901325360",2010,"Square Miles","Land Area",34.06
+"Hebron","0901337910",2000,"Square Miles","Land Area",36.9
+"Hebron","0901337910",2010,"Square Miles","Land Area",36.94
+"Mansfield","0901344910",2000,"Square Miles","Land Area",44.46
+"Mansfield","0901344910",2010,"Square Miles","Land Area",44.6
+"Somers","0901369220",2000,"Square Miles","Land Area",28.34
+"Somers","0901369220",2010,"Square Miles","Land Area",28.37
+"Stafford","0901372090",2000,"Square Miles","Land Area",57.96
+"Stafford","0901372090",2010,"Square Miles","Land Area",58.04
+"Tolland","0901376290",2000,"Square Miles","Land Area",39.71
+"Tolland","0901376290",2010,"Square Miles","Land Area",39.63
+"Union","0901377830",2000,"Square Miles","Land Area",28.71
+"Union","0901377830",2010,"Square Miles","Land Area",28.8
+"Vernon","0901378250",2000,"Square Miles","Land Area",17.73
+"Vernon","0901378250",2010,"Square Miles","Land Area",17.7
+"Willington","0901385950",2000,"Square Miles","Land Area",33.27
+"Willington","0901385950",2010,"Square Miles","Land Area",33.29
+"Ashford","0901501430",2000,"Square Miles","Land Area",38.79
+"Ashford","0901501430",2010,"Square Miles","Land Area",38.76
+"Brooklyn","0901509190",2000,"Square Miles","Land Area",28.97
+"Brooklyn","0901509190",2010,"Square Miles","Land Area",29.09
+"Canterbury","0901512130",2000,"Square Miles","Land Area",39.9
+"Canterbury","0901512130",2010,"Square Miles","Land Area",39.94
+"Chaplin","0901513810",2000,"Square Miles","Land Area",19.43
+"Chaplin","0901513810",2010,"Square Miles","Land Area",19.43
+"Eastford","0901521860",2000,"Square Miles","Land Area",28.89
+"Eastford","0901521860",2010,"Square Miles","Land Area",28.92
+"Hampton","0901536000",2000,"Square Miles","Land Area",25
+"Hampton","0901536000",2010,"Square Miles","Land Area",25.09
+"Killingly","0901540500",2000,"Square Miles","Land Area",48.52
+"Killingly","0901540500",2010,"Square Miles","Land Area",48.31
+"Plainfield","0901559980",2000,"Square Miles","Land Area",42.26
+"Plainfield","0901559980",2010,"Square Miles","Land Area",42.36
+"Pomfret","0901561030",2000,"Square Miles","Land Area",40.3
+"Pomfret","0901561030",2010,"Square Miles","Land Area",40.33
+"Putnam","0901562710",2000,"Square Miles","Land Area",20.29
+"Putnam","0901562710",2010,"Square Miles","Land Area",20.3
+"Scotland","0901567400",2000,"Square Miles","Land Area",18.61
+"Scotland","0901567400",2010,"Square Miles","Land Area",18.63
+"Sterling","0901573420",2000,"Square Miles","Land Area",27.23
+"Sterling","0901573420",2010,"Square Miles","Land Area",27.22
+"Thompson","0901575870",2000,"Square Miles","Land Area",46.94
+"Thompson","0901575870",2010,"Square Miles","Land Area",46.9
+"Windham","0901586790",2000,"Square Miles","Land Area",27.07
+"Windham","0901586790",2010,"Square Miles","Land Area",26.97
+"Woodstock","0901588190",2000,"Square Miles","Land Area",60.54
+"Woodstock","0901588190",2010,"Square Miles","Land Area",60.64
